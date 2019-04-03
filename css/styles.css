@@ -1,0 +1,49 @@
+.jumbotron {
+    background-image: url("images/dogs/bigdog.jpeg");
+    margin-bottom:0px;
+    height: 800px;
+    
+}
+#banner{
+    text-align: center;
+}
+
+#logo {
+    margin: auto;
+    padding-top: 1cm;
+    padding-left: 1cm;
+    
+}
+
+#shop {
+    margin: auto;
+    padding-top: 1cm;
+    padding-right: 0.8cm;
+}
+#main{
+    padding-bottom: 100px;
+    padding-left:200px;
+    padding-right:200px;
+    padding-top: 50px;
+}
+
+
+#topmenu {
+    padding-top: 1cm;
+    color: white;
+}
+#slogan{
+    padding-top: 1cm;
+    color: white;
+    height: 200px
+    
+}
+#slogan2 {
+    height:200px;
+    color:white;
+}
+.grid-social {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
